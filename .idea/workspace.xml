@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="95a6ec2c-159a-4a5d-a759-2f231edebc12" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../FILES/Fileupload/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FILES/Fileupload/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FILES/Fileupload/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FILES/Fileupload/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FILES/Fileupload/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FILES/file w3schools/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FILES/file w3schools/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FILES/file w3schools/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FILES/file w3schools/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FILES/untitled/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FILES/untitled/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FILES/untitled/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FILES/untitled/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FILES/untitled/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FILES/untitled/ego.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTML2PUG/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookecommerce-frontend/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookecommerce-frontend/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookecommerce-frontend/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookecommerce-frontend/src/Routes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookecommerce-frontend/src/admin/AddCategory.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookecommerce-frontend/src/admin/AddProduct.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookecommerce-frontend/src/admin/ManageProducts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookecommerce-frontend/src/admin/Order.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookecommerce-frontend/src/admin/UpdateProduct.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookecommerce-frontend/src/admin/apiAdmin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookecommerce-frontend/src/auth/AdminRoute.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookecommerce-frontend/src/auth/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookecommerce-frontend/src/config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookecommerce-frontend/src/core/ApiCore.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookecommerce-frontend/src/core/Card.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookecommerce-frontend/src/core/Cart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookecommerce-frontend/src/core/Checkbox.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookecommerce-frontend/src/core/Checkout.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookecommerce-frontend/src/core/FixedPrices.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookecommerce-frontend/src/core/Home.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookecommerce-frontend/src/core/Layout.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookecommerce-frontend/src/core/Menu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookecommerce-frontend/src/core/Product.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookecommerce-frontend/src/core/RadioBox.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookecommerce-frontend/src/core/Search.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookecommerce-frontend/src/core/Shop.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookecommerce-frontend/src/core/ShowImage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookecommerce-frontend/src/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookecommerce-frontend/src/user/AdminDashboard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookecommerce-frontend/src/user/Profile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookecommerce-frontend/src/user/Signin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookecommerce-frontend/src/user/Signup.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookecommerce-frontend/src/user/apiUser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/controllers/braintree.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/controllers/category.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/controllers/order.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/controllers/product.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/controllers/user.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/helpers/dbErrorHandler.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/category.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/order.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/product.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routes/braintree.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routes/category.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routes/order.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routes/product.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routes/user.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/text" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/validator/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EcommerceUdemy/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EcommerceUdemy/Controllers/auth.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EcommerceUdemy/Controllers/user.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EcommerceUdemy/Models/user.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EcommerceUdemy/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EcommerceUdemy/helpers/dbErrorHandler.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EcommerceUdemy/routes/user.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EcommerceUdemy/validator/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FRONT-END/REACTJS/phpstorm/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FRONT-END/REACTJS/phpstorm/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FRONT-END/REACTJS/untitled/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FRONT-END/REACTJS/untitled/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FRONT-END/REACTJS/untitled/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FRONT-END/REACTJS/untitled/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FRONT-END/REACTJS/untitled/essai.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../" />
+  </component>
+  <component name="ProjectId" id="1iRJnlIPHXiFxZDPmoIL0PCxv9w" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="95a6ec2c-159a-4a5d-a759-2f231edebc12" name="Default Changelist" comment="" />
+      <created>1601864642742</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601864642742</updated>
+      <workItem from="1601864644268" duration="768000" />
+      <workItem from="1601878768617" duration="17313000" />
+      <workItem from="1601899978589" duration="281000" />
+      <workItem from="1601906834249" duration="2551000" />
+      <workItem from="1601961450226" duration="22723000" />
+      <workItem from="1601987717467" duration="14970000" />
+      <workItem from="1602029308032" duration="15568000" />
+      <workItem from="1602052929310" duration="14510000" />
+      <workItem from="1602093892468" duration="4340000" />
+      <workItem from="1602132876618" duration="28181000" />
+      <workItem from="1602176846746" duration="21032000" />
+      <workItem from="1602225499765" duration="7148000" />
+      <workItem from="1602233462168" duration="7742000" />
+      <workItem from="1602244422337" duration="11041000" />
+      <workItem from="1602277732167" duration="13567000" />
+      <workItem from="1602382344817" duration="4162000" />
+      <workItem from="1602417772347" duration="1165000" />
+      <workItem from="1602442202355" duration="1306000" />
+      <workItem from="1602445771455" duration="17852000" />
+      <workItem from="1602484701378" duration="840000" />
+      <workItem from="1602486590054" duration="355000" />
+      <workItem from="1602487813462" duration="375000" />
+      <workItem from="1602497023605" duration="14411000" />
+      <workItem from="1602552551848" duration="8412000" />
+      <workItem from="1602570457080" duration="1975000" />
+      <workItem from="1602574886493" duration="8307000" />
+      <workItem from="1602642890710" duration="6043000" />
+      <workItem from="1602656389379" duration="10979000" />
+      <workItem from="1602705448418" duration="564000" />
+      <workItem from="1602762056834" duration="11307000" />
+      <workItem from="1602817087628" duration="26469000" />
+      <workItem from="1602902903521" duration="8865000" />
+      <workItem from="1602944929071" duration="2125000" />
+      <workItem from="1602949821386" duration="44434000" />
+      <workItem from="1603079839548" duration="256000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="413" y="130" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1602169369786">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="413" y="130" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.768@0.0.1366.768" timestamp="1602169369786" />
+    <state x="463" y="125" key="FileChooserDialogImpl" timestamp="1602037684034">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="463" y="125" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1602037684034" />
+    <state width="637" height="188" key="GridCell.Tab.0.bottom" timestamp="1601882129251">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="637" height="188" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1601882129251" />
+    <state width="637" height="188" key="GridCell.Tab.0.center" timestamp="1601882129250">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="637" height="188" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1601882129250" />
+    <state width="637" height="188" key="GridCell.Tab.0.left" timestamp="1601882129250">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="637" height="188" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1601882129250" />
+    <state width="637" height="188" key="GridCell.Tab.0.right" timestamp="1601882129251">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="637" height="188" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1601882129251" />
+    <state x="184" y="28" key="SettingsEditor" timestamp="1602037218237">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="184" y="28" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1602037218237" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1602983865542">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1366.768@0.0.1366.768" timestamp="1602983865542" />
+    <state x="680" y="176" key="run.anything.popup" timestamp="1603002830579">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="680" y="176" key="run.anything.popup/0.0.1366.768@0.0.1366.768" timestamp="1603002830579" />
+    <state x="687" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1602906077675">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="687" y="89" width="672" height="678" key="search.everywhere.popup/0.0.1366.768@0.0.1366.768" timestamp="1602906077675" />
+  </component>
+</project>
